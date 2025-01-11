@@ -9,4 +9,5 @@
 4. [Belt vs Direct Drive](https://www.audioadvice.com/videos-reviews/belt-drive-vs-direct-drive-turntables)
 5. [Acrylic Platters](https://blog.fluance.com/benefits-of-acrylic-platter-for-turntables/)
 6. [Turntable Anatomy](https://www.thehouseofmarley.com/blog/parts-of-a-record-player/)
+7. [On RIAA Preamplifier Designs](https://pspatialaudio.com/phono_preamps.htm)
    
