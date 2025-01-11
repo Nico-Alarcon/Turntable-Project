@@ -10,4 +10,5 @@
 5. [Acrylic Platters](https://blog.fluance.com/benefits-of-acrylic-platter-for-turntables/)
 6. [Turntable Anatomy](https://www.thehouseofmarley.com/blog/parts-of-a-record-player/)
 7. [On RIAA Preamplifier Designs](https://pspatialaudio.com/phono_preamps.htm)
+8. [Lipshitz On RIAA Equalization Networks](https://pearl-hifi.com/06_Lit_Archive/14_Books_Tech_Papers/Lipschitz_Stanley/Lipshitz_on_RIAA_JAES.pdf)
    
